@@ -1,4 +1,4 @@
-#String Calculator Kata
+# String Calculator Kata
 
 **Before you start:**
 * Try	not	to	read	ahead.
